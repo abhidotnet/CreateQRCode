@@ -49,4 +49,5 @@ All configuration is handled through `App.config`.
 <appSettings> <add key="QrUrl" value="https://www.example.com" /> 
 <add key="LogoPath" value="C:\logos\mylogo.png" /> 
 <add key="OutputPath" value="C:\temp\myqrcode.jpg" /> 
-</appSettings> ```
+</appSettings> 
+```
