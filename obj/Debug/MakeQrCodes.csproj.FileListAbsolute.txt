@@ -1,0 +1,31 @@
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\bin\Debug\MakeQrCodes.exe.config
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\bin\Debug\MakeQrCodes.exe
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\bin\Debug\MakeQrCodes.pdb
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\bin\Debug\QRCoder.dll
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\bin\Debug\QRCoder.xml
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\obj\Debug\MakeQrCodes.csproj.AssemblyReference.cache
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\obj\Debug\MakeQrCodes.csproj.CoreCompileInputs.cache
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\obj\Debug\MakeQrCodes.csproj.CopyComplete
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\obj\Debug\MakeQrCodes.exe
+C:\Users\Abhijit\Proof of Concept\MakeQrCodes\obj\Debug\MakeQrCodes.pdb
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\obj\Debug\MakeQrCodes.csproj.AssemblyReference.cache
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\obj\Debug\MakeQrCodes.csproj.CoreCompileInputs.cache
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\obj\Debug\MakeQrCodes.exe
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\obj\Debug\MakeQrCodes.pdb
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\bin\Debug\MakeQrCodes.exe.config
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\bin\Debug\MakeQrCodes.exe
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\bin\Debug\MakeQrCodes.pdb
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\bin\Debug\QRCoder.dll
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\bin\Debug\QRCoder.xml
+C:\Users\Abhijit\Proof of Concept\QRCode4Kirti\obj\Debug\MakeQrCodes.csproj.CopyComplete
+C:\Users\Abhijit\QRCodeMaker\bin\Debug\MakeQrCodes.exe.config
+C:\Users\Abhijit\QRCodeMaker\bin\Debug\MakeQrCodes.exe
+C:\Users\Abhijit\QRCodeMaker\bin\Debug\MakeQrCodes.pdb
+C:\Users\Abhijit\QRCodeMaker\bin\Debug\QRCoder.dll
+C:\Users\Abhijit\QRCodeMaker\bin\Debug\QRCoder.xml
+C:\Users\Abhijit\QRCodeMaker\obj\Debug\MakeQrCodes.csproj.AssemblyReference.cache
+C:\Users\Abhijit\QRCodeMaker\obj\Debug\MakeQrCodes.exe.config
+C:\Users\Abhijit\QRCodeMaker\obj\Debug\MakeQrCodes.csproj.CoreCompileInputs.cache
+C:\Users\Abhijit\QRCodeMaker\obj\Debug\MakeQrCo.2E5DB637.Up2Date
+C:\Users\Abhijit\QRCodeMaker\obj\Debug\MakeQrCodes.exe
+C:\Users\Abhijit\QRCodeMaker\obj\Debug\MakeQrCodes.pdb
